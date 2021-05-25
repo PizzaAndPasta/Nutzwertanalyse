@@ -1,0 +1,29 @@
+h1 
+{
+  text-align: center;
+}
+body {
+background-size: 1920px 1080px;
+background-color: #4169e1;
+font-size: 30rm;
+font-color: #ffffff;
+  background: darfblue;
+}
+table, th, td {
+  align: center;
+  border: 4px solid blue;
+  box-shadow: insert 0 0 1em white, 0 0 1em white;
+  
+  border-color: #3169e1;
+  background-color: #ffff;
+  font-size: 1.5rem;
+}
+
+Button
+{
+  font-size: 1.5rem;
+  font-color: white;
+  background-color: #4169e1;
+  border-color: white;
+}
+  
